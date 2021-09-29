@@ -46,7 +46,7 @@ export default {
           {
             headers: {
               Authorization:
-                "Client-ID DT7qlKBprZJc6bj5pp8KwXlUY5Vc14YG3H1art27hmE",
+                "Client-ID your-secret-key",
               "Accept-Version": "v1"
             }
           }
