@@ -2,7 +2,7 @@
 
 # Sayfa Önizleme
 
-![](https://i.ibb.co/0sGYm4m/pinterest.png)
+![](https://ibb.co/bbKNQwQ)
 
 ## Project setup
 ```
