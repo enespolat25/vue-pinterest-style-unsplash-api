@@ -1,6 +1,8 @@
-# vue-pinterest
+## vue-pinterest
 
-# Sayfa Önizleme
+[Konunun detaylı anlatıldığı makale: ](https://dev.to/ratracegrad/creating-a-pinterest-style-image-gallery-in-vue-6dc)
+
+## Sayfa Önizleme
 
 ![](https://i.ibb.co/WV2BG8G/pinterest.png)
 
