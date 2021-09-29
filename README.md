@@ -1,5 +1,9 @@
 # vue-pinterest
 
+# Sayfa Önizleme
+
+![](https://i.ibb.co/0sGYm4m/pinterest.png)
+
 ## Project setup
 ```
 yarn install
