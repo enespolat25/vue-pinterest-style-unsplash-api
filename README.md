@@ -1,5 +1,7 @@
 ## vue-pinterest
 
+Bu projede Vue uygulamasına  Unsplash API kullanarak Pinterest tarzı bir resim gösterici eklenmesi uygulanmıştır.
+
 [Konunun detaylı anlatıldığı makale: ](https://dev.to/ratracegrad/creating-a-pinterest-style-image-gallery-in-vue-6dc)
 
 ## Sayfa Önizleme
